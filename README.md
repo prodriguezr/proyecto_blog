@@ -1,5 +1,6 @@
 # proyectoblog
 
+****
 A new Flutter application.
 
 ## Getting Started
@@ -15,7 +16,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Based on Bourbon Code YouTube channel videos:
+Based on Bourbon Code YouTube channel videos (in Spanish):
 
-https://www.youtube.com/watch?v=CWLvfutxFFQ&t=80s
-https://www.youtube.com/watch?v=n9UtE4RJ5C8&t=10s
+- [Blog App with Flutter and Firebase Storage - Firestore (Parte 1)](https://www.youtube.com/watch?v=CWLvfutxFFQ&t=80s)
+- [Blog App with Flutter and Firebase Storage - Firestore (Parte 2)](https://www.youtube.com/watch?v=n9UtE4RJ5C8&t=10s)
