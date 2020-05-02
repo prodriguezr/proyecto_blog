@@ -1,22 +1,13 @@
 # proyectoblog
 
+## Proyecto basado en los siguientes videos del canal de YouTube de Bourbon Code:
+
+- [Blog App con Flutter y Firebase Storage - Firestore (Parte 1)](https://www.youtube.com/watch?v=CWLvfutxFFQ&t=80s)
+- [Blog App con Flutter y Firebase Storage - Firestore (Parte 2)](https://www.youtube.com/watch?v=n9UtE4RJ5C8&t=10s)
+
 ****
-A new Flutter application.
 
-## Getting Started
+## Based project on Bourbon Code YouTube channel videos (in Spanish):
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Based on Bourbon Code YouTube channel videos (in Spanish):
-
-- [Blog App with Flutter and Firebase Storage - Firestore (Parte 1)](https://www.youtube.com/watch?v=CWLvfutxFFQ&t=80s)
-- [Blog App with Flutter and Firebase Storage - Firestore (Parte 2)](https://www.youtube.com/watch?v=n9UtE4RJ5C8&t=10s)
+- [Blog App with Flutter and Firebase Storage - Firestore (Part 1)](https://www.youtube.com/watch?v=CWLvfutxFFQ&t=80s)
+- [Blog App with Flutter and Firebase Storage - Firestore (Part 2)](https://www.youtube.com/watch?v=n9UtE4RJ5C8&t=10s)
